@@ -1,7 +1,8 @@
-## Olá, me chamo Felipe Alves
+## Olá, me chamo Felipe Alves.
 
 - 🔭 Atualmente trabalhando como Analista de Infraestrutura
-- 🌱 Estudando C#, .NetCore e Microsoft SQL Server
+- 📗 Formado em ADS
+- 🌱 Estudando C#, .NetCore e Microsoft Sql Server
 - 📫 Contate-me pelo e-mail felipeaalves122@gmail.com
 
 <div align="center">
