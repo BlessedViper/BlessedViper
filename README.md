@@ -1,8 +1,9 @@
 ## Olá, me chamo Felipe Alves.
 
-Olá, seja bem-vindo ao meu perfil 😁
-Formado em Análise e Desenvolvimento de Sistemas na Unipar - Toledo - PR.
-Focado nos estudos de BACK-END, com foco na linguagem C#, conhecimento em Banco de dados Relacional padrão SQL(POSTGRESQL e SQL SERVER). Entendimento da rotina Scrum com dominio na ferramenta Trello.
+- 🔭 Atualmente trabalhando como Desenvolvedor Back-End
+- 📗 Formado em Análise e Desenvolvimento de Sistemas.
+- 🌱 Experiências em C#, API Rest utiliznado .NetCore, Windows Forms utilizando .NetFramework e DevExpress, RabbitMQ, MediatoR, MongoDB e Microsoft Sql Server.
+- 📫 Contate-me pelo e-mail felipeaalves122@gmail.com
 
 <div align="center">
   <a href="https://github.com/BlessedViper">
