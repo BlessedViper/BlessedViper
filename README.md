@@ -1,9 +1,8 @@
 ## Olá, me chamo Felipe Alves.
 
-- 🔭 Atualmente trabalhando como Analista de Infraestrutura
-- 📗 Formado em ADS
-- 🌱 Estudando C#, .NetCore e Microsoft Sql Server
-- 📫 Contate-me pelo e-mail felipeaalves122@gmail.com
+Olá, seja bem-vindo ao meu perfil 😁
+Formado em Análise e Desenvolvimento de Sistemas na Unipar - Toledo - PR.
+Focado nos estudos de BACK-END, com foco na linguagem C#, conhecimento em Banco de dados Relacional padrão SQL(POSTGRESQL e SQL SERVER). Entendimento da rotina Scrum com dominio na ferramenta Trello.
 
 <div align="center">
   <a href="https://github.com/BlessedViper">
